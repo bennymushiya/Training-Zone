@@ -1,0 +1,6 @@
+framework module Pods_TrainingZoneV2 {
+  umbrella header "Pods-TrainingZoneV2-umbrella.h"
+
+  export *
+  module * { export * }
+}
